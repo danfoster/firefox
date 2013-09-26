@@ -1,0 +1,4 @@
+firefox
+=======
+
+Firefox package definitions
