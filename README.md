@@ -1,4 +1,4 @@
-firefox
+Firefox
 =======
 
 Firefox package definitions
